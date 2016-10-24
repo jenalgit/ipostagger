@@ -12,7 +12,7 @@ Untuk menginstall, tambahkan kode berikut pada berkas `pom.xml`:
     <repository>
       <id>NLP_ITB.POSTagger</id>
       <name>HMM</name>
-      <url>https://github.com/yusufsyaifudin/ipostagger/blob/master/</url>
+      <url>https://github.com/yusufsyaifudin/ipostagger/raw/1.0.0/</url>
     </repository>
 </repositories> 
 ```
